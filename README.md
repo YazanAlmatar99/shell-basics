@@ -7,5 +7,4 @@ Some shell scripting basics using bash.
 <br >
 [Loops](loops.sh)
 
-hello 
 
