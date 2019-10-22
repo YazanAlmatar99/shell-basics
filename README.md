@@ -6,5 +6,6 @@ Some shell scripting basics using bash.
 [Read Input](read-input.sh)
 <br >
 [Loops](loops.sh)
-
+<br >
+[While Loops](while-loops.sh)
 
