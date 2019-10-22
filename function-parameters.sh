@@ -4,9 +4,9 @@ read -p 'Enter the first number ' a
 read -p 'Enter the second number ' b
 
 
-Rectangle_Area() {
+multiply() {
 result=$(($a * $b))
 echo "The result is $result"
 }
 
-Rectangle_Area $a $b
+multiply $a $b
