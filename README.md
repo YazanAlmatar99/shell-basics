@@ -8,4 +8,6 @@ Some shell scripting basics using bash.
 [Loops](loops.sh)
 <br >
 [While Loops](while-loops.sh)
+<br >
+[If-Statements](if-statements.sh)
 
