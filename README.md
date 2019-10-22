@@ -14,3 +14,5 @@ Some shell scripting basics using bash.
 [Functions](functions.sh)
 <br >
 [Function Parameters](function-parameters.sh)
+<br >
+[Create a Directory](create-directory.sh)
