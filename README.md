@@ -12,3 +12,5 @@ Some shell scripting basics using bash.
 [If-Statements](if-statements.sh)
 <br >
 [Functions](functions.sh)
+<br >
+[Function Parameters](function-parameters.sh)
