@@ -16,3 +16,5 @@ Some shell scripting basics using bash.
 [Function Parameters](function-parameters.sh)
 <br >
 [Create a Directory](create-directory.sh)
+<br >
+[Create a directory if no other exists](conditional-create-directory.sh)
