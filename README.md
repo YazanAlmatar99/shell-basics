@@ -10,4 +10,5 @@ Some shell scripting basics using bash.
 [While Loops](while-loops.sh)
 <br >
 [If-Statements](if-statements.sh)
-
+<br >
+[Functions](functions.sh)
