@@ -22,4 +22,4 @@ Some shell scripting basics using bash.
 [Delete File](delete-file.sh)
 <br >
 [Check if file exists](file-exists.sh)
-Pass the file name as an argument. EX bash file-exits.sh filename
+Pass the file name as an argument. EX: bash file-exists.sh filename
