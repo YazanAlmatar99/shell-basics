@@ -20,3 +20,6 @@ Some shell scripting basics using bash.
 [Create a directory if no other exists](conditional-create-directory.sh)
 <br >
 [Delete File](delete-file.sh)
+<br >
+[Check if file exists](file-exists.sh)
+Pass the file name as an argument. EX bash file-exits.sh filename
