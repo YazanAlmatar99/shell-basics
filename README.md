@@ -18,3 +18,5 @@ Some shell scripting basics using bash.
 [Create a Directory](create-directory.sh)
 <br >
 [Create a directory if no other exists](conditional-create-directory.sh)
+<br >
+[Delete File](delete-file.sh)
