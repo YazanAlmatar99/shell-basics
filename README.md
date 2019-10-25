@@ -23,3 +23,5 @@ Some shell scripting basics using bash.
 <br >
 [Check if file exists](file-exists.sh)
 Pass the file name as an argument. EX: bash file-exists.sh filename
+<br >
+[Read a File](read-file.sh)
